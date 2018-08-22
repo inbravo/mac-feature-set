@@ -1,5 +1,7 @@
 #!/bin/bash
+
 # while-read: read lines from a file
 while read ; do
-    printf "%s\n" $REPLY
-done < /etc/passwd
+	# $REPLY is the way to get values in a loop
+	printf "%s\n" $REPLY
+done < ../README.md
