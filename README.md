@@ -31,7 +31,8 @@
 | Desktop | Start menu | Windows | Command + Option + D
 | Desktop | File Explorer | Windows + E | Command + Option + Space |
 | Desktop | Character Map | Windows + R, type charmap, then Enter | Command + Control + Space |
-| System | System Settings | Windows + I | Command + Space then type SYS  |
+| System | System Settings | Windows + I | Command + Space then type SYS |
+| Browser | Screen size change | Ctrl + mouse scroll | Command + "+/-" |
 
 [Reference](https://www.makeuseof.com/windows-vs-mac-shortcuts/)
 
