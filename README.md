@@ -31,7 +31,7 @@
 | Desktop | Start menu | Windows | Command + Option + D
 | Desktop | File Explorer | Windows + E | Command + Option + Space |
 | Desktop | Character Map | Windows + R, type charmap, then Enter | Command + Control + Space |
-| Desktop | Settings | Windows + I | Command + , |
+| System | System Settings | Windows + I | Command + Space then type SYS  |
 
 [Reference](https://www.makeuseof.com/windows-vs-mac-shortcuts/)
 
