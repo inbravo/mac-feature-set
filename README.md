@@ -18,8 +18,8 @@
 | Terminal | Paste | Ctrl + V | Command + V |
 | Terminal | Select current line | Ctrl + A | Triple-click the line |
 | Desktop | System search | Windows, then type | Command + Space, then type |
-| Desktop | Show or hide desktop | Windows + D | Command + Mission Control | 
-| Desktop | Peek desktop | Windows + | Command + F3 | 
+| Desktop | Show or hide desktop | Windows + D | F11 | 
+| Desktop | Peek desktop | Windows + | F3 | 
 | Desktop | Resize or minimize app | Windows + Down arrow | Command + M |
 | Desktop | Minimize all apps | Windows + M | Command + Option + M |
 | Desktop | Switch between active windows | Alt + Tab | Command + Tab | 
